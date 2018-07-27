@@ -2,8 +2,10 @@
 简易问答平台
 
 # python 模块
-pip install flask\n
+pip install flask
+
 pip install mysql-python
+
 pip install flask-sqlalchemy
 pip install flask-script
 pip install flask-migrate
