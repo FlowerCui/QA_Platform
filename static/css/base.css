@@ -1,0 +1,20 @@
+.logo{
+    width: 70px;
+    /*height: 100px;*/
+}
+
+body{
+    background: #f3f3f3;
+}
+
+.main{
+    background: #fff;
+    width: 730px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.page-title{
+text-align: center;
+}
+
