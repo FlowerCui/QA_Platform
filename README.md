@@ -1,7 +1,8 @@
-# QA_Platform 简易问答平台
+# QA_Platform
+简易问答平台
 
 # python 模块
-pip install flask
+pip install flask\n
 pip install mysql-python
 pip install flask-sqlalchemy
 pip install flask-script
