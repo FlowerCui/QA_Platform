@@ -10,10 +10,10 @@ SECRET_KEY = os.urandom(24)
 DIALECT = 'mysql'
 DRIVER = 'mysqldb'
 USERNAME = 'root'
-PASSWORD = 'secret'
+PASSWORD = 'xxxx'
 HOST = 'localhost'
 PORT = '3306'
-DATABASE = 'zlktqa_demo' 
+DATABASE = 'qa_demo' 
 
 SQLALCHEMY_DATABASE_URI = "{}+{}://{}:{}@{}:{}/{}?charset=utf8".format(DIALECT, DRIVER, USERNAME, PASSWORD, HOST, PORT, DATABASE)
 
